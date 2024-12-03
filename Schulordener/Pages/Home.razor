@@ -1,0 +1,111 @@
+@page "/"
+
+<PageTitle>Schul-Ordner</PageTitle>
+
+<div class="centered">
+    
+    
+    <h1 class="JBFont" style="margin-bottom: 0">Woche: @GetWeekRaw()</h1>
+    <p class="JBFont" style="font-weight: 100; margin-top: 0; margin-bottom: 0; font-size: 12px">© by Gabriel Knab</p>
+
+    @foreach (KeyValuePair<string, string> s in _students)
+    {
+        @if (IsClassOrderer(s.Key))
+        {
+            <p class="JBFont" style="font-weight: 900; letter-spacing: 5px">@s.Value</p>
+        }
+        else
+        {
+            <p class="JBFont" >@s.Value</p>
+        }
+        
+    }
+
+    <div style="margin-top: 5vh">
+        <InputDate @bind-Value="@_nowTime" TValue="DateTime"></InputDate>
+    </div>
+    
+</div>
+
+
+
+
+
+@code {
+
+    private readonly Dictionary<string, string> _students = new Dictionary<string, string>()
+    {
+        //{"Eb","Theresa"},
+        //{"Fi","Karl"},
+        {"Ga","Daniel"},
+        //{"Gr","Linda"},
+        {"Gs","Jonas"},
+        {"He","Raphael"},
+        {"Ho","Paul"},
+        {"Hu","Florian H."},
+        //{"Hut","Thomas"},
+        {"Kaj","Emana"},
+        {"Kn","Gabriel"},
+        {"Mei","Claus"},
+        {"Nn","Philip"},
+        {"R","Eva"},
+        {"Sn","Florian S."},
+        {"Sc","Janis"},
+        {"St","Marko"},
+        {"Ti","Victoria"}
+    };
+
+    private readonly List<int> _freeWeeks = new List<int>()
+    {
+        15, 16, 23, 31, 38
+    };
+
+    readonly DateTime _startTime = new DateTime(2024, 9, 08);
+    DateTime _nowTime = DateTime.Today;
+
+    private bool IsClassOrderer(string key)
+    {
+        List<string> students = _students.Keys.ToList();
+
+        if (GetWeek() == -1) return false;
+
+        int index = (GetWeek() * 2)  % students.Count;
+        int index2 = (GetWeek() * 2 + 1)  % students.Count;
+        
+        return students[index] == key || students[index2] == key;
+    }
+
+    private int GetWeekRaw()
+    {
+        return (int)Math.Round((_nowTime - _startTime).Days / 7.0, MidpointRounding.ToPositiveInfinity) -1;
+    }
+
+    private int GetWeek()
+    {
+        int rawWeek = GetWeekRaw();
+        if (_freeWeeks.Contains(rawWeek) || GetWeekRaw() < 0)
+        {
+            return -1;
+        }
+
+        List<int> freeWeeksBefore = _freeWeeks.Where(x => x < rawWeek).ToList();
+
+        return rawWeek - freeWeeksBefore.Count;
+    }
+
+}
+
+<style>
+    .JBFont {
+        font-family: "JetBrains Mono", monospace;
+        font-weight: 400;
+        font-style: normal;
+    }
+    
+    .centered {
+        position: absolute;
+        top:  50%;
+        left:  50%;
+        transform: translate(-50%, -50%);
+    }
+</style>
