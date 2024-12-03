@@ -1763,13 +1763,12 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\JetBrains\\RiderProjects\\Schulordener\\Schulordener\\Schulordener.csproj",
+      "projectUniqueName": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\Schulordener.csproj",
       "projectName": "Schulordener",
-      "projectPath": "S:\\JetBrains\\RiderProjects\\Schulordener\\Schulordener\\Schulordener.csproj",
+      "projectPath": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\Schulordener.csproj",
       "packagesPath": "C:\\Users\\CoolerPc\\.nuget\\packages\\",
-      "outputPath": "S:\\JetBrains\\RiderProjects\\Schulordener\\Schulordener\\obj\\",
+      "outputPath": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
@@ -1801,7 +1800,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "all"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
