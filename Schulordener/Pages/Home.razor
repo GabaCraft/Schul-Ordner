@@ -57,7 +57,7 @@
 
     private readonly List<int> _freeWeeks = new List<int>()
     {
-        15, 16, 23, 31, 38
+        8, 16, 17, 24, 32, 39
     };
 
     readonly DateTime _startTime = new DateTime(2024, 9, 08);
@@ -66,24 +66,26 @@
     private bool IsClassOrderer(string key)
     {
         List<string> students = _students.Keys.ToList();
+        
 
         if (GetWeek() == -1) return false;
+        int week = GetWeek() - 1;
 
-        int index = (GetWeek() * 2)  % students.Count;
-        int index2 = (GetWeek() * 2 + 1)  % students.Count;
+        int index = (week * 2)  % students.Count;
+        int index2 = (week * 2 + 1)  % students.Count;
         
         return students[index] == key || students[index2] == key;
     }
 
     private int GetWeekRaw()
     {
-        return (int)Math.Round((_nowTime - _startTime).Days / 7.0, MidpointRounding.ToPositiveInfinity) -1;
+        return (int)Math.Round((_nowTime - _startTime).Days / 7.0, MidpointRounding.ToPositiveInfinity);
     }
 
     private int GetWeek()
     {
         int rawWeek = GetWeekRaw();
-        if (_freeWeeks.Contains(rawWeek) || GetWeekRaw() < 0)
+        if (_freeWeeks.Contains(rawWeek) || GetWeekRaw() <= 0)
         {
             return -1;
         }

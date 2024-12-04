@@ -38,8 +38,6 @@ S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.yqsrs1xmzk.wasm
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\mscorlib.o0184ey5ia.wasm
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\netstandard.hb3h2rr8mk.wasm
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\Schulordener.jge084r8sv.pdb
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\Schulordener.pjm5flfxjk.wasm
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.AppContext.rb3sudfxx6.wasm
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Buffers.ijnujodfj9.wasm
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Collections.Concurrent.xuu1t5r6su.wasm
@@ -237,7 +235,6 @@ S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Net.NetworkInformation.gcgdir7gs3.wasm.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Security.Cryptography.Cng.ahchakyb75.wasm.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Threading.Tasks.Extensions.ctn0pypdat.wasm.gz
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\Schulordener.jge084r8sv.pdb.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Private.Uri.4vum1sjijv.wasm.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Runtime.InteropServices.a1kmpww6r4.wasm.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.5cygu8f0zf.wasm.gz
@@ -392,7 +389,6 @@ S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Threading.Timer.yf2iqnmdhk.wasm.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Linq.Expressions.lyb8wix427.wasm.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Reflection.Metadata.jxe0h85qgr.wasm.gz
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\Schulordener.pjm5flfxjk.wasm.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Numerics.Vectors.9lt3d3kbru.wasm.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Private.Xml.Linq.y9tg1dl3wl.wasm.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.5qjn02irdd.wasm.gz
@@ -1015,9 +1011,6 @@ S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\compress
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\compressed\e6h4i1pis3-tjcz0u77k5.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\compressed\k842b7zw9b-tptq2av103.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\compressed\yqbbpzbroc-lfu7j35m59.gz
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\compressed\xa0wrqsxvq-pjm5flfxjk.gz
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\compressed\5fhjb1hcyg-jge084r8sv.gz
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\compressed\i00guz5gen-yx10ikvs5d.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\staticwebassets.build.json
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\staticwebassets.development.json
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\staticwebassets.build.endpoints.json
@@ -1032,3 +1025,10 @@ S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\Schulord
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\refint\Schulordener.dll
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\Schulordener.pdb
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\ref\Schulordener.dll
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\Schulordener.ptdzuthl3m.pdb
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\Schulordener.ljvlxo30dl.wasm
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\Schulordener.ptdzuthl3m.pdb.gz
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Release\net9.0\wwwroot\_framework\Schulordener.ljvlxo30dl.wasm.gz
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\compressed\xa0wrqsxvq-ljvlxo30dl.gz
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\compressed\5fhjb1hcyg-ptdzuthl3m.gz
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Release\net9.0\compressed\i00guz5gen-t82uokceec.gz

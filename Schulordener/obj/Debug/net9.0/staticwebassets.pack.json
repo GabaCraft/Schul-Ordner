@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "S:\\JetBrains\\RiderProjects\\Schulordener\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "S:\\JetBrains\\RiderProjects\\Schulordener\\Schulordener\\wwwroot\\css\\app.css",
+      "Id": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "S:\\JetBrains\\RiderProjects\\Schulordener\\Schulordener\\wwwroot\\fonts\\JetBrainsMono-Medium.ttf",
+      "Id": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\wwwroot\\fonts\\JetBrainsMono-Medium.ttf",
       "PackagePath": "staticwebassets\\fonts\\JetBrainsMono-Medium.ttf"
     },
     {
-      "Id": "S:\\JetBrains\\RiderProjects\\Schulordener\\Schulordener\\wwwroot\\icon-192.png",
+      "Id": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "S:\\JetBrains\\RiderProjects\\Schulordener\\Schulordener\\wwwroot\\index.html",
+      "Id": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
