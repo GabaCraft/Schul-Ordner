@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Schulordener",
   "resources": {
-    "hash": "sha256-pSS5/Q9cVLDQh7EHvKH4QOoGq7M4EI9nWI0TrIyPfZ8=",
+    "hash": "sha256-+UiLPRBkbNY9TCXi8pc6+3s9eLCOZeZ6xTE3Izk1xec=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Schulordener.ydhjih4wwj.wasm": "Schulordener.wasm",
-      "Schulordener.4pp67lza6p.pdb": "Schulordener.pdb"
+      "Schulordener.hd2gtoexto.wasm": "Schulordener.wasm",
+      "Schulordener.7c2tyc2vzf.pdb": "Schulordener.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -412,10 +412,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "Schulordener.ydhjih4wwj.wasm": "sha256-xlQAMvghyhlGLzrHTBwyzrpEtgixpgILJAIGWBROT6E="
+      "Schulordener.hd2gtoexto.wasm": "sha256-+9LHcSdMLaLp9hB4aB/Y9ioqRt2jZTFEgeS9qzuWaM8="
     },
     "pdb": {
-      "Schulordener.4pp67lza6p.pdb": "sha256-mFLfRUT9JTZWtLhqrRDJiAienmXW2q0giimH9T1wh6A="
+      "Schulordener.7c2tyc2vzf.pdb": "sha256-F6OCJSIulHp1I2EEkg8hb/vIgz1hT2XjvaRj0WiIKfY="
     }
   },
   "cacheBootResources": true,

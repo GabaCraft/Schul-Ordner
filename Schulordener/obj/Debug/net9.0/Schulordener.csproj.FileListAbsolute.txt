@@ -1842,7 +1842,6 @@ S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\scopedcss\
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\blazor.build.boot-extension.json
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\blazor.boot.json
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\compressed\r69tgygb3t-81sotqnb8s.gz
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\compressed\r6hsij7xbb-7j6o762dk4.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\compressed\mrkvvvf03e-yiodnjoszm.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\compressed\zdj1fxqciv-qe23mgxr71.gz
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\compressed\nnqm9nmlzj-flveird317.gz
@@ -2058,10 +2057,11 @@ S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\Schulorden
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\refint\Schulordener.dll
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\Schulordener.pdb
 S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\ref\Schulordener.dll
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Debug\net9.0\wwwroot\_framework\Schulordener.4pp67lza6p.pdb
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Debug\net9.0\wwwroot\_framework\Schulordener.ydhjih4wwj.wasm
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Debug\net9.0\wwwroot\_framework\Schulordener.4pp67lza6p.pdb.gz
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Debug\net9.0\wwwroot\_framework\Schulordener.ydhjih4wwj.wasm.gz
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\compressed\xa0wrqsxvq-ydhjih4wwj.gz
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\compressed\5fhjb1hcyg-4pp67lza6p.gz
-S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\compressed\i00guz5gen-2253ajitv6.gz
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Debug\net9.0\wwwroot\_framework\Schulordener.7c2tyc2vzf.pdb
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Debug\net9.0\wwwroot\_framework\Schulordener.hd2gtoexto.wasm
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Debug\net9.0\wwwroot\_framework\Schulordener.7c2tyc2vzf.pdb.gz
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\bin\Debug\net9.0\wwwroot\_framework\Schulordener.hd2gtoexto.wasm.gz
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\compressed\r6hsij7xbb-ewxv7mg7v7.gz
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\compressed\xa0wrqsxvq-hd2gtoexto.gz
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\compressed\5fhjb1hcyg-7c2tyc2vzf.gz
+S:\JetBrains\RiderProjects\Schul-Ordner\Schulordener\obj\Debug\net9.0\compressed\i00guz5gen-xg0cr3d89n.gz
