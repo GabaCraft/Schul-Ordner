@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kRj9cWb+c8x07dbkVu/Net7KYUhNfAJIKt/LLHr6unc=",
+  "Hash": "kWZuLg0xhk7SaRS2sgxwB240H3xl6o8iVZVFiciNXXM=",
   "Source": "Schulordener",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "51jtw75c0x",
-      "Integrity": "Zw4iMgbHAXjhy3IuawWkvx7/VPjCbirU5BPD5W/J+HU=",
+      "Fingerprint": "2253ajitv6",
+      "Integrity": "WhKg7+TPNGw6gx8/jNQ3pt2ADCTP6QdIuw4ek/gZ0ms=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "9ff2z7c1bk",
-      "Integrity": "lTkr5jUdJvVxjFYyO4CCJ968GMgclgD95ET6d5UGHr0=",
+      "Fingerprint": "4pp67lza6p",
+      "Integrity": "mFLfRUT9JTZWtLhqrRDJiAienmXW2q0giimH9T1wh6A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\Schulordener.pdb"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "6enjm5ka2q",
-      "Integrity": "LscsQAvKEuc6GzkQCCyctlRozcj/gFQQm7EQufC8s9k=",
+      "Fingerprint": "ydhjih4wwj",
+      "Integrity": "xlQAMvghyhlGLzrHTBwyzrpEtgixpgILJAIGWBROT6E=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\webcil\\Schulordener.wasm"
@@ -5036,12 +5036,12 @@
       "OriginalItemSpec": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Tasks.Extensions.wasm"
     },
     {
-      "Identity": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\5fhjb1hcyg-9ff2z7c1bk.gz",
+      "Identity": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\5fhjb1hcyg-4pp67lza6p.gz",
       "SourceId": "Schulordener",
       "SourceType": "Computed",
       "ContentRoot": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Schulordener#[.{fingerprint=9ff2z7c1bk}]!.pdb.gz",
+      "RelativePath": "_framework/Schulordener#[.{fingerprint=4pp67lza6p}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5050,8 +5050,8 @@
       "RelatedAsset": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Schulordener.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "92u3aly782",
-      "Integrity": "8VgmM/p7CFojcLtCoAF+f5YtWxO7BFBR/0rDVTRqWVc=",
+      "Fingerprint": "radtqdf2v8",
+      "Integrity": "kwbX5lgFslcKsqM84XIOfUJQI9Qk+1JyCIc6etH1l48=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Schulordener.pdb"
@@ -6506,7 +6506,7 @@
       "OriginalItemSpec": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.wasm"
     },
     {
-      "Identity": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\i00guz5gen-51jtw75c0x.gz",
+      "Identity": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\i00guz5gen-2253ajitv6.gz",
       "SourceId": "Schulordener",
       "SourceType": "Computed",
       "ContentRoot": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\",
@@ -6520,8 +6520,8 @@
       "RelatedAsset": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8fo17nqm3t",
-      "Integrity": "5HSxZozmeIhnktLTG0HSz7UW9LWufbsxXTFCqxhbjsE=",
+      "Fingerprint": "m84k47e47j",
+      "Integrity": "is0xC51Y0H6kNr64OTIVf5aZ6TTXgImMsNbCkH7lRgQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8333,12 +8333,12 @@
       "OriginalItemSpec": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Reflection.Metadata.wasm"
     },
     {
-      "Identity": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\xa0wrqsxvq-6enjm5ka2q.gz",
+      "Identity": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\xa0wrqsxvq-ydhjih4wwj.gz",
       "SourceId": "Schulordener",
       "SourceType": "Computed",
       "ContentRoot": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Schulordener#[.{fingerprint=6enjm5ka2q}]!.wasm.gz",
+      "RelativePath": "_framework/Schulordener#[.{fingerprint=ydhjih4wwj}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8347,8 +8347,8 @@
       "RelatedAsset": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Schulordener.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "634m9uxs0f",
-      "Integrity": "Mq8RDWgHIF8jHzzN927656jhZpUoyfty7A90ldvCnW4=",
+      "Fingerprint": "7zoctch4ji",
+      "Integrity": "jfkL+9O77jjqHYhmeROwCLKJ/np2DveeQhT21sDXPzI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Schulordener.wasm"
@@ -8731,7 +8731,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Zw4iMgbHAXjhy3IuawWkvx7/VPjCbirU5BPD5W/J+HU=\""
+          "Value": "\"WhKg7+TPNGw6gx8/jNQ3pt2ADCTP6QdIuw4ek/gZ0ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 20:00:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WhKg7+TPNGw6gx8/jNQ3pt2ADCTP6QdIuw4ek/gZ0ms="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\i00guz5gen-2253ajitv6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081182010"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12317"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"is0xC51Y0H6kNr64OTIVf5aZ6TTXgImMsNbCkH7lRgQ=\""
         },
         {
           "Name": "Last-Modified",
@@ -8740,45 +8779,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Zw4iMgbHAXjhy3IuawWkvx7/VPjCbirU5BPD5W/J+HU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\i00guz5gen-51jtw75c0x.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081201786"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12314"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5HSxZozmeIhnktLTG0HSz7UW9LWufbsxXTFCqxhbjsE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:47:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -8794,19 +8794,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Zw4iMgbHAXjhy3IuawWkvx7/VPjCbirU5BPD5W/J+HU=\""
+          "Value": "W/\"WhKg7+TPNGw6gx8/jNQ3pt2ADCTP6QdIuw4ek/gZ0ms=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Zw4iMgbHAXjhy3IuawWkvx7/VPjCbirU5BPD5W/J+HU="
+          "Value": "sha256-WhKg7+TPNGw6gx8/jNQ3pt2ADCTP6QdIuw4ek/gZ0ms="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\i00guz5gen-51jtw75c0x.gz",
+      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\i00guz5gen-2253ajitv6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8815,7 +8815,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12314"
+          "Value": "12317"
         },
         {
           "Name": "Content-Type",
@@ -8823,11 +8823,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5HSxZozmeIhnktLTG0HSz7UW9LWufbsxXTFCqxhbjsE=\""
+          "Value": "\"is0xC51Y0H6kNr64OTIVf5aZ6TTXgImMsNbCkH7lRgQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:47:54 GMT"
+          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8845,7 +8845,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5HSxZozmeIhnktLTG0HSz7UW9LWufbsxXTFCqxhbjsE="
+          "Value": "sha256-is0xC51Y0H6kNr64OTIVf5aZ6TTXgImMsNbCkH7lRgQ="
         }
       ]
     },
@@ -20311,168 +20311,7 @@
       ]
     },
     {
-      "Route": "_framework/Schulordener.6enjm5ka2q.wasm",
-      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Schulordener.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14613"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LscsQAvKEuc6GzkQCCyctlRozcj/gFQQm7EQufC8s9k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6enjm5ka2q"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Schulordener.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LscsQAvKEuc6GzkQCCyctlRozcj/gFQQm7EQufC8s9k="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Schulordener.6enjm5ka2q.wasm",
-      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\xa0wrqsxvq-6enjm5ka2q.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000144175317"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6935"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Mq8RDWgHIF8jHzzN927656jhZpUoyfty7A90ldvCnW4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"LscsQAvKEuc6GzkQCCyctlRozcj/gFQQm7EQufC8s9k=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6enjm5ka2q"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Schulordener.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LscsQAvKEuc6GzkQCCyctlRozcj/gFQQm7EQufC8s9k="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Schulordener.6enjm5ka2q.wasm.gz",
-      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\xa0wrqsxvq-6enjm5ka2q.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6935"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Mq8RDWgHIF8jHzzN927656jhZpUoyfty7A90ldvCnW4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6enjm5ka2q"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Schulordener.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Mq8RDWgHIF8jHzzN927656jhZpUoyfty7A90ldvCnW4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Schulordener.9ff2z7c1bk.pdb",
+      "Route": "_framework/Schulordener.4pp67lza6p.pdb",
       "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Schulordener.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -20482,7 +20321,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19760"
+          "Value": "19768"
         },
         {
           "Name": "Content-Type",
@@ -20490,11 +20329,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lTkr5jUdJvVxjFYyO4CCJ968GMgclgD95ET6d5UGHr0=\""
+          "Value": "\"mFLfRUT9JTZWtLhqrRDJiAienmXW2q0giimH9T1wh6A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
+          "Value": "Mon, 16 Dec 2024 20:00:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20504,7 +20343,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9ff2z7c1bk"
+          "Value": "4pp67lza6p"
         },
         {
           "Name": "label",
@@ -20512,18 +20351,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lTkr5jUdJvVxjFYyO4CCJ968GMgclgD95ET6d5UGHr0="
+          "Value": "sha256-mFLfRUT9JTZWtLhqrRDJiAienmXW2q0giimH9T1wh6A="
         }
       ]
     },
     {
-      "Route": "_framework/Schulordener.9ff2z7c1bk.pdb",
-      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\5fhjb1hcyg-9ff2z7c1bk.gz",
+      "Route": "_framework/Schulordener.4pp67lza6p.pdb",
+      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\5fhjb1hcyg-4pp67lza6p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000073480785"
+          "Quality": "0.000073448402"
         }
       ],
       "ResponseHeaders": [
@@ -20533,15 +20372,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13608"
+          "Value": "13614"
         },
         {
           "Name": "ETag",
-          "Value": "\"8VgmM/p7CFojcLtCoAF+f5YtWxO7BFBR/0rDVTRqWVc=\""
+          "Value": "\"kwbX5lgFslcKsqM84XIOfUJQI9Qk+1JyCIc6etH1l48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
+          "Value": "Mon, 16 Dec 2024 20:00:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20561,13 +20400,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lTkr5jUdJvVxjFYyO4CCJ968GMgclgD95ET6d5UGHr0=\""
+          "Value": "W/\"mFLfRUT9JTZWtLhqrRDJiAienmXW2q0giimH9T1wh6A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9ff2z7c1bk"
+          "Value": "4pp67lza6p"
         },
         {
           "Name": "label",
@@ -20575,13 +20414,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lTkr5jUdJvVxjFYyO4CCJ968GMgclgD95ET6d5UGHr0="
+          "Value": "sha256-mFLfRUT9JTZWtLhqrRDJiAienmXW2q0giimH9T1wh6A="
         }
       ]
     },
     {
-      "Route": "_framework/Schulordener.9ff2z7c1bk.pdb.gz",
-      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\5fhjb1hcyg-9ff2z7c1bk.gz",
+      "Route": "_framework/Schulordener.4pp67lza6p.pdb.gz",
+      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\5fhjb1hcyg-4pp67lza6p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20590,7 +20429,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13608"
+          "Value": "13614"
         },
         {
           "Name": "Content-Type",
@@ -20598,11 +20437,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8VgmM/p7CFojcLtCoAF+f5YtWxO7BFBR/0rDVTRqWVc=\""
+          "Value": "\"kwbX5lgFslcKsqM84XIOfUJQI9Qk+1JyCIc6etH1l48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
+          "Value": "Mon, 16 Dec 2024 20:00:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20620,7 +20459,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9ff2z7c1bk"
+          "Value": "4pp67lza6p"
         },
         {
           "Name": "label",
@@ -20628,7 +20467,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8VgmM/p7CFojcLtCoAF+f5YtWxO7BFBR/0rDVTRqWVc="
+          "Value": "sha256-kwbX5lgFslcKsqM84XIOfUJQI9Qk+1JyCIc6etH1l48="
         }
       ]
     },
@@ -20643,7 +20482,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19760"
+          "Value": "19768"
         },
         {
           "Name": "Content-Type",
@@ -20651,11 +20490,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lTkr5jUdJvVxjFYyO4CCJ968GMgclgD95ET6d5UGHr0=\""
+          "Value": "\"mFLfRUT9JTZWtLhqrRDJiAienmXW2q0giimH9T1wh6A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
+          "Value": "Mon, 16 Dec 2024 20:00:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20665,18 +20504,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lTkr5jUdJvVxjFYyO4CCJ968GMgclgD95ET6d5UGHr0="
+          "Value": "sha256-mFLfRUT9JTZWtLhqrRDJiAienmXW2q0giimH9T1wh6A="
         }
       ]
     },
     {
       "Route": "_framework/Schulordener.pdb",
-      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\5fhjb1hcyg-9ff2z7c1bk.gz",
+      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\5fhjb1hcyg-4pp67lza6p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000073480785"
+          "Quality": "0.000073448402"
         }
       ],
       "ResponseHeaders": [
@@ -20686,15 +20525,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13608"
+          "Value": "13614"
         },
         {
           "Name": "ETag",
-          "Value": "\"8VgmM/p7CFojcLtCoAF+f5YtWxO7BFBR/0rDVTRqWVc=\""
+          "Value": "\"kwbX5lgFslcKsqM84XIOfUJQI9Qk+1JyCIc6etH1l48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
+          "Value": "Mon, 16 Dec 2024 20:00:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20714,19 +20553,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lTkr5jUdJvVxjFYyO4CCJ968GMgclgD95ET6d5UGHr0=\""
+          "Value": "W/\"mFLfRUT9JTZWtLhqrRDJiAienmXW2q0giimH9T1wh6A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lTkr5jUdJvVxjFYyO4CCJ968GMgclgD95ET6d5UGHr0="
+          "Value": "sha256-mFLfRUT9JTZWtLhqrRDJiAienmXW2q0giimH9T1wh6A="
         }
       ]
     },
     {
       "Route": "_framework/Schulordener.pdb.gz",
-      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\5fhjb1hcyg-9ff2z7c1bk.gz",
+      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\5fhjb1hcyg-4pp67lza6p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20735,7 +20574,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13608"
+          "Value": "13614"
         },
         {
           "Name": "Content-Type",
@@ -20743,11 +20582,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8VgmM/p7CFojcLtCoAF+f5YtWxO7BFBR/0rDVTRqWVc=\""
+          "Value": "\"kwbX5lgFslcKsqM84XIOfUJQI9Qk+1JyCIc6etH1l48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
+          "Value": "Mon, 16 Dec 2024 20:00:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20765,7 +20604,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8VgmM/p7CFojcLtCoAF+f5YtWxO7BFBR/0rDVTRqWVc="
+          "Value": "sha256-kwbX5lgFslcKsqM84XIOfUJQI9Qk+1JyCIc6etH1l48="
         }
       ]
     },
@@ -20788,11 +20627,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LscsQAvKEuc6GzkQCCyctlRozcj/gFQQm7EQufC8s9k=\""
+          "Value": "\"xlQAMvghyhlGLzrHTBwyzrpEtgixpgILJAIGWBROT6E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
+          "Value": "Mon, 16 Dec 2024 20:00:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20802,18 +20641,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LscsQAvKEuc6GzkQCCyctlRozcj/gFQQm7EQufC8s9k="
+          "Value": "sha256-xlQAMvghyhlGLzrHTBwyzrpEtgixpgILJAIGWBROT6E="
         }
       ]
     },
     {
       "Route": "_framework/Schulordener.wasm",
-      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\xa0wrqsxvq-6enjm5ka2q.gz",
+      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\xa0wrqsxvq-ydhjih4wwj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000144175317"
+          "Quality": "0.000144071459"
         }
       ],
       "ResponseHeaders": [
@@ -20823,15 +20662,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6935"
+          "Value": "6940"
         },
         {
           "Name": "ETag",
-          "Value": "\"Mq8RDWgHIF8jHzzN927656jhZpUoyfty7A90ldvCnW4=\""
+          "Value": "\"jfkL+9O77jjqHYhmeROwCLKJ/np2DveeQhT21sDXPzI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
+          "Value": "Mon, 16 Dec 2024 20:00:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20851,19 +20690,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LscsQAvKEuc6GzkQCCyctlRozcj/gFQQm7EQufC8s9k=\""
+          "Value": "W/\"xlQAMvghyhlGLzrHTBwyzrpEtgixpgILJAIGWBROT6E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LscsQAvKEuc6GzkQCCyctlRozcj/gFQQm7EQufC8s9k="
+          "Value": "sha256-xlQAMvghyhlGLzrHTBwyzrpEtgixpgILJAIGWBROT6E="
         }
       ]
     },
     {
       "Route": "_framework/Schulordener.wasm.gz",
-      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\xa0wrqsxvq-6enjm5ka2q.gz",
+      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\xa0wrqsxvq-ydhjih4wwj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20872,7 +20711,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6935"
+          "Value": "6940"
         },
         {
           "Name": "Content-Type",
@@ -20880,11 +20719,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Mq8RDWgHIF8jHzzN927656jhZpUoyfty7A90ldvCnW4=\""
+          "Value": "\"jfkL+9O77jjqHYhmeROwCLKJ/np2DveeQhT21sDXPzI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 15:51:37 GMT"
+          "Value": "Mon, 16 Dec 2024 20:00:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20902,7 +20741,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Mq8RDWgHIF8jHzzN927656jhZpUoyfty7A90ldvCnW4="
+          "Value": "sha256-jfkL+9O77jjqHYhmeROwCLKJ/np2DveeQhT21sDXPzI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Schulordener.ydhjih4wwj.wasm",
+      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Schulordener.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlQAMvghyhlGLzrHTBwyzrpEtgixpgILJAIGWBROT6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 20:00:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ydhjih4wwj"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Schulordener.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlQAMvghyhlGLzrHTBwyzrpEtgixpgILJAIGWBROT6E="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Schulordener.ydhjih4wwj.wasm",
+      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\xa0wrqsxvq-ydhjih4wwj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000144071459"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6940"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jfkL+9O77jjqHYhmeROwCLKJ/np2DveeQhT21sDXPzI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 20:00:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xlQAMvghyhlGLzrHTBwyzrpEtgixpgILJAIGWBROT6E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ydhjih4wwj"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Schulordener.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlQAMvghyhlGLzrHTBwyzrpEtgixpgILJAIGWBROT6E="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Schulordener.ydhjih4wwj.wasm.gz",
+      "AssetFile": "S:\\JetBrains\\RiderProjects\\Schul-Ordner\\Schulordener\\obj\\Debug\\net9.0\\compressed\\xa0wrqsxvq-ydhjih4wwj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jfkL+9O77jjqHYhmeROwCLKJ/np2DveeQhT21sDXPzI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 20:00:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ydhjih4wwj"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Schulordener.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jfkL+9O77jjqHYhmeROwCLKJ/np2DveeQhT21sDXPzI="
         }
       ]
     },
